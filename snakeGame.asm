@@ -1,7 +1,4 @@
-##### SANDY SOlAQA
-##### 825945946
-##### SNAKE GAME
-##### KEN ARNOLD
+
 
 .data
 	mainMenu:      .asciiz "\n=========================\nPlease select an option\n=========================\n0 - play\n1 - rules\n2 - quit\n=========================\nyour option: "
