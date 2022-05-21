@@ -1,9 +1,4 @@
-/*
- SANDY SOlAQA
- 825945946
- SNAKE GAME
- KEN ARNOLD
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
